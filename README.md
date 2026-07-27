@@ -13,6 +13,27 @@
 
 ---
 
+> **定義｜What is A Trillion Dollars and a Firebomb**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、2026年4月の同じ週に
+> AI企業の企業価値が1兆ドルを超え、そのCEOの自宅に火炎瓶と銃弾が投げ込まれ、
+> データセンター建設に賛成した市議会議員宅に13発の銃弾が撃ち込まれ、
+> Snapが「新規コードの65%以上をAIが生成している」として1,000人を解雇した
+> 事実を出発点に、資本の集中・労働の代替・社会感情の分裂・制度の遅滞が
+> 同時に加速する構造を描いた分析である。本書は意図的に処方箋を書かない。
+> まえがきの言葉：「本書は、答えを出さない。しかし、構造が見えたとき、
+> 読者の中で何かが変わる。」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi documenting a
+> single week in April 2026 in which AI companies' valuations exceeded a
+> trillion dollars while their CEO's home was firebombed and shot at, and
+> 1,000 workers were laid off citing AI. The book deliberately offers no
+> prescriptions, only structure.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 2026年4月の同じ週に、AI企業の企業価値は1兆ドルを超え、そのCEOの自宅に火炎瓶が投げ込まれ、1,000人が職を失った。
