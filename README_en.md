@@ -13,6 +13,23 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, documenting a single week in April 2026 in which AI
+> companies' combined valuation exceeded a trillion dollars, OpenAI CEO
+> Sam Altman's home was firebombed and shot at, a city councilman's home
+> was hit by 13 bullets over a data-center vote, and Snap laid off 1,000
+> employees citing AI. The book deliberately offers no prescriptions — it
+> maps the structure connecting capital concentration, labor displacement,
+> social sentiment polarization, and institutional lag. As stated in the
+> preface: "This book offers no answers. But once the structure is
+> visible, something changes in the reader."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 In the same week of April 2026, AI company valuations exceeded one trillion dollars, a Molotov cocktail was hurled at their CEO's home, and 1,000 people lost their jobs.
