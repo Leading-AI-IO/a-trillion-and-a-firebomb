@@ -60,6 +60,11 @@ D&V、10:80:10、オーケストレーター。全部、答えがある書籍だ
 それが希望でも絶望でも、私は指示しない。<br>
 ただ、同じ時代を生きる一人として、私が見ている構造をここに記す。
 
+（2026年9月16日追記）
+
+本書は2026年9月16日に、第2章・第3章・第5章・第7章へ同月の動きを追記し、第2章と第5章の誤りを訂正した。<br>
+追記と訂正の箇所には、それぞれ日付と内容を記している。
+
 ---
 
 ## 目次
@@ -743,7 +748,21 @@ AI企業の企業価値は、驚くべき速度で膨張している。
 
 この膨大な富が、数百人〜数千人のAI企業創業者、投資家、上級従業員に集中している。
 
-## 2.6 Anthropicの例: 3年で128兆円
+（2026年9月16日追記）
+
+2026年9月15日、英紙フィナンシャル・タイムズ（FT）は、OpenAIが大口投資家と新たな資金調達を協議しており、新規株式公開（IPO）前の企業価値評価額が約1兆2,000億ドルに達する見通しだと報じた（ロイターが翌16日に伝えた）。<br>
+同報道によれば、協議は初期段階で、金額は今後数カ月で変わる可能性がある。協議は、OpenAIではなく投資家側から持ちかけられたという。OpenAIはコメントを控えた。<br>
+同じ報道は、アルトマンCEOが9月12日、AIを巡る安全性への懸念を理由に、2026年中にIPOは実施しないと表明したことも伝えている。<br>
+上の表に記した2026年3月の評価額は、8,520億ドルである。<br>
+**本書はこれを報道として記録する。評価額が確定したとは書かない。**
+
+（2026年9月16日訂正）
+
+本節の見出し、表の2026年4月の行、本文の一文にあった「128兆円」を「57兆円」に改めた。<br>
+128兆円は、2.5節の表にあるとおりOpenAIの企業価値（約8,520億ドル）であり、Anthropicの企業価値は約3,800億ドル（約57兆円）である。<br>
+2.5節の表と、本章の参考文献4の数値に合わせた。
+
+## 2.6 Anthropicの例: 3年で57兆円
 
 Anthropicの成長速度は、歴史上類を見ない水準だ。
 
@@ -754,11 +773,15 @@ Anthropicの成長速度は、歴史上類を見ない水準だ。
 | 2024年3月     | Claude 3 公開                          |
 | 2025年末      | 年間売上高 90億ドル                          |
 | 2026年3月初    | 年間売上高 190億ドル                         |
-| **2026年4月** | **年間売上高 300億ドル（約4.5兆円）／企業価値 約128兆円** |
+| **2026年4月** | （2026年9月16日訂正）<br>企業価値を「約128兆円」から「約57兆円」に改めた（本節冒頭の訂正を参照）<br>**年間売上高 300億ドル（約4.5兆円）／企業価値 約57兆円** |
 
 主力商品Claudeをローンチしてから、まだ**3年**しか経っていない。
 
-**「3年で128兆円の企業価値」** — <br>
+（2026年9月16日訂正）
+
+「3年で128兆円の企業価値」を「3年で57兆円の企業価値」に改めた（本節冒頭の訂正を参照）。
+
+**「3年で57兆円の企業価値」** — <br>
 この速度は、20世紀の産業史の中で比肩するものが見当たらない。<br>
 Google、Facebook、Amazon、Apple、これらのどれよりも速い成長曲線を描いている。
 
@@ -835,6 +858,10 @@ AI時代の格差の最も鋭い表れだ。
 6. San Francisco Chronicle. "Mansion shortage as AI wealth transforms SF real estate." 2026.
 7. Levels.fyi. "Software Engineer Salary at OpenAI / Anthropic." 2025-2026.
    https://www.levels.fyi/
+
+（2026年9月16日追記）
+
+8. ロイター. "オープンAI、評価額1.2兆ドルで資金調達検討 IPO前に＝FT." 2026年9月16日.
 
 <br>
 
@@ -1051,6 +1078,27 @@ layoffs.fyiのデータによれば、<br>
 | 再雇用の状況    | 削減後の再雇用は限定的（特にジュニア層）       |
 | CEO発言の定型句 | 「より少ない人数で、より多くの価値を生む」      |
 
+（2026年9月16日追記）
+
+### 卒業生の側から見た入口
+
+2026年9月、米国勢調査局の研究者が、ワーキングペーパー「Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors」（CES-26-56）を公開した。<br>
+大学卒業生の行政記録を使い、AIの影響を受けやすい専攻とそうでない専攻で、卒業後の雇用と収入がどう変わったかを追った研究である。
+
+| 観点 | 研究の記述 |
+| --- | --- |
+| 差が開いた時期 | 2022年末のChatGPT登場の直後から |
+| 対象 | AIの影響を最も受けやすい上位1割の専攻 |
+| 卒業直後の就業 | 就業の確率が5ポイント低下（回帰調整後の推計） |
+| 卒業直後の収入 | 13%低下（同）。大きな景気後退期に卒業した場合の損失と同程度 |
+| 収入低下の内訳 | 約半分は同じ業界内での賃金の低下、残りは飲食・小売など賃金の低い業界への移動 |
+| その後 | 社会に出てから時間が経つほど和らぐが、最も影響を受ける専攻では大きく残る |
+
+3.1節から3.8節で見たのは、企業が発表した削減だった。<br>
+この研究が示すのは、削減の発表とは別に、**これから入口に立つ卒業生の側で、就業と収入が同時に下がっている**ことである。<br>
+ただし、研究が示しているのは、ChatGPTの登場と時期を同じくして差が開いたという事実である。<br>
+本書は、AIがその唯一の原因だとは書かない。
+
 ## 3.9 Z世代の絶望の構造
 
 Gallup調査が示したZ世代の「怒り31%、興奮22%、希望18%」。<br>
@@ -1108,6 +1156,11 @@ Z世代の「怒り31%、希望18%」は、彼らが社会の未来図を失っ�
 6. IBM. "Arvind Krishna on AI and the Future of Work." Bloomberg Interview, 2023年5月.
 7. Reuters. "米スナップ、従業員の16％削減へ 投資家の要請受け." 2026年4月15日.
 8. Gallup. "The Voice of Gen Z: The AI Paradox." 2026.
+
+（2026年9月16日追記）
+
+9. Orr, Cody, Lee C. Tucker & Lawrence Warren. "Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors." U.S. Census Bureau, CES Working Paper 26-56, September 2026.
+   https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html
 
 <br>
 
@@ -1517,7 +1570,13 @@ AIが労働を代替する速度に、人間の再訓練や社会保障が追い
 - AI資本を持つ企業の利益率は、過去の産業と比較して異常に高い
 - OpenAI、Anthropic の成長速度は、Google や Facebook を超える
 - スケーラビリティにより、マージンが時間と共に拡大する
-- **Anthropicが3年で128兆円の企業価値を生んだことは、r の極限値を示している**
+
+（2026年9月16日訂正）
+
+次の項目の「128兆円」を「57兆円」に改めた。<br>
+128兆円はOpenAIの企業価値であり、Anthropicの企業価値は約57兆円である（2.6節冒頭の訂正を参照）。
+
+- **Anthropicが3年で57兆円の企業価値を生んだことは、r の極限値を示している**
 
 **AI時代のg:**
 
@@ -1771,6 +1830,25 @@ Anthropicの共同創業者ダリオ・アモデイは、エッセイ「The Adol
 税制、規制、社会保障制度の設計が必要だ。<br>
 しかし、その制度変革には、政治的合意が必要で、そこには時間がかかる。
 
+（2026年9月16日追記）
+
+格差への懸念は、AIを作る企業の外側からも表明されている。<br>
+2026年9月14日、ゲイツ財団は年次報告書「Goalkeepers Report」の2026年版を公開し、今後2年間で少なくとも10億ドルを、AIとAIを活用した解決策へのアクセス拡大に投じると発表した。<br>
+報告書の序文で、財団の会長であるビル・ゲイツは、節の見出しに次の一文を置いている。
+
+> Left to the market, AI will be designed by and for the richest people in the world.
+
+同じ序文でゲイツは、AIがどう作られ、資金を得て、展開されるかについて今後12〜18か月に下される決定が、この技術が主に、すでに最も多くを持つ人々に恩恵をもたらすのか、それとも最も持たざる人々に届くのかを決める、と書いた。
+
+| 観点 | 内容 |
+| --- | --- |
+| 拠出の配分（財団の発表・おおよそ） | 教育40%、医療40%、農業10%、公平なAIのためのデジタル基盤10% |
+| 行動を求めている相手 | 各国政府の指導者と、技術を開発する企業 |
+| 本節の80%寄付誓約との違い | 資金を出す主体が、AI企業の創業者ではなく、AIの外側にいる財団である |
+
+本節の表が「偽善」と「誠実」の両論を併記したのと同じく、本書はこの拠出も判定しない。<br>
+記録できるのは、格差への懸念が、AIを作る側からも、その外側からも語られ始めたという事実までである。
+
 ## 5.10 この章の結論
 
 ピケティのr > g は、AI時代に極限化する。
@@ -1811,6 +1889,13 @@ r > g が極限化する社会では、期待と恐れの同時加速が常態�
    https://openai.com/
 7. Acemoglu, Daron & Robinson, James A. "Why Nations Fail." Crown Business, 2012.
 8. Acemoglu, Daron & Johnson, Simon. "Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity." PublicAffairs, 2023.
+
+（2026年9月16日追記）
+
+9. Gates Foundation. "Gates Foundation Commits US$1 Billion to Help Build and Deliver Equitable AI That Improves Health and Expands Opportunity." September 14, 2026.
+   https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/09/goalkeepers-report-equitable-ai
+10. Gates Foundation. "Goalkeepers 2026 Report: Make This Matter: AI, Equity, and the Choice We Can't Delay." 2026.
+   https://goalkeepers.gatesfoundation.org/report/2026-report/
 
 <br>
 
@@ -2391,6 +2476,33 @@ GPT、Claude、Gemini等の大規模汎用モデル。以下の要件:
 | 国際規制の分断      | EUと米国の規制乖離        |
 | 市民の不安増加      | 「規制なしで突き進むAI」への恐怖 |
 
+（2026年9月16日追記）
+
+### 2026年9月、左右の両端からの訴え
+
+2026年9月15日、ワシントンで開かれた集会「Pro-Human Assembly」に、民主党系無所属のバーニー・サンダース上院議員と、第1次トランプ政権で首席戦略官を務めたスティーブ・バノン氏が、そろって登壇した。
+
+サンダース議員の事務所が公開した講演原稿（as prepared for delivery）は、AIが雇用に与える影響を次のように書いている。
+
+> The economic impact of that is that AI has the potential to eliminate tens of millions of jobs, wiping out entire professions and making it harder for young people to enter into the workforce.
+
+同じ原稿は、AIの開発をめぐる決定のほぼすべてが、マスク、ザッカーバーグ、ベゾス、ティール、エリソン、ブリンらの「世界で最も裕福な一握りの人々」によって下されてきたと述べる。<br>
+そのうえで、AI企業の取締役の半数を公共が任命することを求める法案（AI American Sovereign Wealth Fund Act）を提出したと記している。
+
+バノン氏の発言については、一次資料に到達できていない。<br>
+ロイターの報道によれば、バノン氏は「まず必要なのは、何が起きているのかを正確に理解するため、開発ペースを落とすことだ」と述べた。<br>
+そのうえで、AI開発の減速に向けた法整備には時間がかかり過ぎるとして、「必要なのは大統領令などによる行政措置だ」と訴えた。<br>
+**本書はこれを報道として記録する。**
+
+| 観点 | サンダース議員（講演原稿） | バノン氏（報道） |
+| --- | --- | --- |
+| 懸念 | 雇用の喪失、若者の就業の難しさ、一握りの富裕層への決定権の集中 | 開発のペース、規制に消極的な政権へのテクノロジー企業の影響 |
+| 求める手段 | 法律（超知能の開発の禁止、先端AI開発の一時停止、公共による取締役の任命） | 大統領令などの行政措置 |
+
+懸念は重なり、手段は分かれている。<br>
+**法律を求める側と、法律では間に合わないとする側が、同じ壇上に並んだ。**<br>
+7.1節で見た「技術の速度と制度の速度」の差は、規制を求める側が手段を選ぶときにも表れている。
+
 ## 7.4 日本のAI規制の現状
 
 日本のAI規制は、**議論中**という状態が続いている。
@@ -2659,6 +2771,12 @@ AI技術は、法制度の10倍以上の速度で進化している。<br>
 7. OECD. "AI Policy Observatory." 2026.
    https://oecd.ai/
 8. Cyberspace Administration of China. "Interim Measures for the Management of Generative AI Services." 2023年7月.
+
+（2026年9月16日追記）
+
+9. Senator Bernie Sanders. "PREPARED REMARKS: Sanders: Regulating AI 'is as American as apple pie.'" September 15, 2026.
+   https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-regulating-ai-is-as-american-as-apple-pie/
+10. ロイター. "サンダース氏とバノン氏がAI監督強化訴え、異例の左右両派共闘." 2026年9月16日.
 
 <br>
 
