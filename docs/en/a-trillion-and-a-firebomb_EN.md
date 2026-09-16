@@ -59,6 +59,11 @@ When you finish reading, I hope that some kind of image will crystallize within 
 Whether that image is one of hope or despair, I will not dictate.<br>
 I simply record here, as one person living in the same era, the structure as I see it.
 
+(Added on September 16, 2026)
+
+On September 16, 2026, this book added developments from that month to Chapters 2, 3, 5, and 7, and corrected errors in Chapters 2 and 5.<br>
+Each addition and correction is marked with its date and content.
+
 ---
 
 ## Table of Contents
@@ -741,7 +746,21 @@ AI company valuations are expanding at an astonishing pace.
 
 This immense wealth is concentrated among a few hundred to a few thousand AI company founders, investors, and senior employees.
 
-## 2.6 The Anthropic Example: ¥128 Trillion in Three Years
+(Added on September 16, 2026)
+
+On September 15, 2026, the Financial Times reported that OpenAI was in talks with major investors about new funding that would value the company at roughly $1.2 trillion ahead of an initial public offering (as relayed by Reuters on September 16).<br>
+According to the report, the talks are at an early stage, the figure could change over the coming months, and the talks were initiated by investors rather than by OpenAI. OpenAI declined to comment.<br>
+The same report noted that CEO Sam Altman said on September 12 that OpenAI would not hold an IPO in 2026, citing safety concerns about AI.<br>
+The March 2026 valuation shown in the table above is $852 billion.<br>
+**This book records this as a report. It does not state that the valuation has been finalized.**
+
+(Corrected on September 16, 2026)
+
+In this section's heading, the April 2026 row of the table, and one sentence of the text, "¥128 trillion" was changed to "¥57 trillion."<br>
+As the table in Section 2.5 shows, ¥128 trillion is OpenAI's valuation (about $852 billion); Anthropic's valuation is about $380 billion (about ¥57 trillion).<br>
+The figures were aligned with the table in Section 2.5 and with Reference 4 of this chapter.
+
+## 2.6 The Anthropic Example: ¥57 Trillion in Three Years
 
 Anthropic's growth rate is without precedent in history.
 
@@ -752,11 +771,15 @@ Anthropic's growth rate is without precedent in history.
 | March 2024 | Claude 3 launched |
 | End of 2025 | Annual revenue $9 billion |
 | Early March 2026 | Annual revenue $19 billion |
-| **April 2026** | **Annual revenue $30 billion (~¥4.5T) / Valuation ~¥128T** |
+| **April 2026** | (Corrected on September 16, 2026)<br>Valuation changed from "~¥128T" to "~¥57T" (see the correction at the top of this section)<br>**Annual revenue $30 billion (~¥4.5T) / Valuation ~¥57T** |
 
 Only **three years** have passed since the launch of its flagship product, Claude.
 
-**"¥128 trillion in enterprise value in three years"** —<br>
+(Corrected on September 16, 2026)
+
+"¥128 trillion in enterprise value in three years" was changed to "¥57 trillion in enterprise value in three years" (see the correction at the top of this section).
+
+**"¥57 trillion in enterprise value in three years"** —<br>
 this pace has no parallel in 20th-century industrial history.<br>
 Google, Facebook, Amazon, Apple — the growth curve surpasses them all.
 
@@ -833,6 +856,10 @@ is the sharpest manifestation of inequality in the AI era.
 6. San Francisco Chronicle. "Mansion shortage as AI wealth transforms SF real estate." 2026.
 7. Levels.fyi. "Software Engineer Salary at OpenAI / Anthropic." 2025–2026.
    https://www.levels.fyi/
+
+(Added on September 16, 2026)
+
+8. Reuters (Japanese edition). "OpenAI considers raising funds at $1.2 trillion valuation ahead of IPO — FT." September 16, 2026.
 
 <br>
 
@@ -1048,6 +1075,27 @@ This pace is the highest in at least the past several years.
 | Rehiring status | Rehiring is limited, especially for junior roles |
 | CEO talking point | "Deliver more value with fewer people" |
 
+(Added on September 16, 2026)
+
+### The Entrance Seen from the Graduates' Side
+
+In September 2026, researchers at the U.S. Census Bureau published the working paper "Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors" (CES-26-56).<br>
+Using administrative records on college graduates, the study tracks how post-graduation employment and earnings changed for majors with more and less exposure to AI.
+
+| Aspect | What the study states |
+| --- | --- |
+| When the gap opened | Immediately following the introduction of ChatGPT in late 2022 |
+| Group | The most AI-exposed decile of college majors |
+| Initial employment | Likelihood of initial employment down five percentage points (regression-adjusted estimate) |
+| Initial earnings | Full-quarter initial earnings down thirteen percent (same); comparable in magnitude to the losses from graduating into a large recession |
+| Breakdown of the earnings decline | Roughly half from lower earnings within the sectors that employ these graduates; the remainder from a shift into lower-wage sectors such as restaurants and retail |
+| Afterward | The effects attenuate as graduates move further from labor market entry, but remain substantial for the most exposed majors |
+
+Sections 3.1 through 3.8 looked at reductions announced by companies.<br>
+What this study shows is that, apart from any announced cuts, **employment and earnings are falling at the same time on the side of graduates now standing at the entrance.**<br>
+However, what the study shows is that the gap opened at the same time as the introduction of ChatGPT.<br>
+This book does not state that AI is its sole cause.
+
 ## 3.9 The Structure of Gen Z's Despair
 
 The Gallup survey showed Gen Z's "anger 31%, excitement 22%, hope 18%."<br>
@@ -1105,6 +1153,11 @@ This global asymmetry is deepening the fractures of society even further.
 6. IBM. "Arvind Krishna on AI and the Future of Work." Bloomberg Interview, May 2023.
 7. Reuters. "Snap to cut 16% of workforce at investor's request." April 15, 2026.
 8. Gallup. "The Voice of Gen Z: The AI Paradox." 2026.
+
+(Added on September 16, 2026)
+
+9. Orr, Cody, Lee C. Tucker & Lawrence Warren. "Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors." U.S. Census Bureau, CES Working Paper 26-56, September 2026.
+   https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html
 
 <br>
 
@@ -1514,7 +1567,13 @@ These characteristics push the r > g structure to its extremes.
 - Profit margins for companies holding AI capital are abnormally high compared to past industries
 - OpenAI and Anthropic are growing faster than Google or Facebook did
 - Scalability causes margins to expand over time
-- **Anthropic generating ¥128 trillion in enterprise value in three years demonstrates the extreme value of r**
+
+(Corrected on September 16, 2026)
+
+In the following item, "¥128 trillion" was changed to "¥57 trillion."<br>
+¥128 trillion is OpenAI's valuation; Anthropic's valuation is about ¥57 trillion (see the correction at the top of Section 2.6).
+
+- **Anthropic generating ¥57 trillion in enterprise value in three years demonstrates the extreme value of r**
 
 **g in the AI era:**
 
@@ -1766,6 +1825,25 @@ Because structural problems cannot be solved by individual goodwill.<br>
 Tax systems, regulations, and social security system design are needed.<br>
 But those institutional reforms require political consensus, and that takes time.
 
+(Added on September 16, 2026)
+
+Concern about inequality is also being voiced from outside the companies that build AI.<br>
+On September 14, 2026, the Gates Foundation published the 2026 edition of its annual Goalkeepers Report and announced plans to spend at least $1 billion over the next two years to expand access to AI and AI-enabled solutions.<br>
+In the report's introduction, Bill Gates, chair of the foundation, placed the following sentence as a section heading.
+
+> Left to the market, AI will be designed by and for the richest people in the world.
+
+In the same introduction, Gates wrote that the decisions made in the next 12 to 18 months about how AI is built, funded, and deployed will determine whether this technology primarily benefits the people who already have the most or reaches those who have the least.
+
+| Aspect | Content |
+| --- | --- |
+| Allocation of funding (foundation's announcement, approximate) | Education 40%, health care 40%, agriculture 10%, digital foundation for equitable AI 10% |
+| Whom it calls on to act | Government leaders and the companies developing the technology |
+| Difference from the 80% pledge in this section | The source of the money is not the founders of an AI company but a foundation outside AI |
+
+Just as the table in this section set the "hypocrisy" and "sincerity" views side by side, this book does not judge this commitment either.<br>
+What can be recorded is that concern about inequality has begun to be voiced both by those who build AI and by those outside it.
+
 ## 5.10 Conclusion of This Chapter
 
 Piketty's r > g reaches its extreme in the AI era.
@@ -1806,6 +1884,13 @@ The April 2026 Altman attack and Indianapolis shooting are compared structurally
    https://openai.com/
 7. Acemoglu, Daron & Robinson, James A. "Why Nations Fail." Crown Business, 2012.
 8. Acemoglu, Daron & Johnson, Simon. "Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity." PublicAffairs, 2023.
+
+(Added on September 16, 2026)
+
+9. Gates Foundation. "Gates Foundation Commits US$1 Billion to Help Build and Deliver Equitable AI That Improves Health and Expands Opportunity." September 14, 2026.
+   https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/09/goalkeepers-report-equitable-ai
+10. Gates Foundation. "Goalkeepers 2026 Report: Make This Matter: AI, Equity, and the Choice We Can't Delay." 2026.
+   https://goalkeepers.gatesfoundation.org/report/2026-report/
 
 <br>
 
@@ -2389,6 +2474,33 @@ The United States has a **complex interplay of state, federal, and executive-ord
 | Fragmentation of international regulation | EU and U.S. regulatory divergence |
 | Increased citizen anxiety | Fear of "AI advancing with no regulation" |
 
+(Added on September 16, 2026)
+
+### September 2026: Appeals from Both Ends of the Spectrum
+
+On September 15, 2026, Senator Bernie Sanders, an independent who caucuses with the Democrats, and Steve Bannon, who served as chief strategist in the first Trump administration, both took the stage at the "Pro-Human Assembly" in Washington.
+
+The remarks as prepared for delivery, published by Senator Sanders' office, describe AI's impact on employment as follows.
+
+> The economic impact of that is that AI has the potential to eliminate tens of millions of jobs, wiping out entire professions and making it harder for young people to enter into the workforce.
+
+The same remarks state that virtually all of the decisions regarding the development of AI have been made by "a handful of the richest people in the world" — Musk, Zuckerberg, Bezos, Thiel, Ellison, Brin and a few others.<br>
+They go on to note that he has introduced legislation (the AI American Sovereign Wealth Fund Act) that would require half of the board members of AI companies to be appointed by the public.
+
+This book has not reached a primary source for Bannon's remarks.<br>
+According to Reuters (as reported in Japanese), Bannon said that what is needed first is to slow the pace of development in order to understand accurately what is happening.<br>
+He also argued that legislation to slow AI development would take too long, and that what is needed is executive action such as presidential orders.<br>
+**This book records this as a report.**
+
+| Aspect | Senator Sanders (prepared remarks) | Bannon (as reported) |
+| --- | --- | --- |
+| Concerns | Loss of jobs, difficulty for young people entering the workforce, concentration of decision-making among a handful of the wealthy | The pace of development, the influence of technology companies on an administration reluctant to regulate |
+| Means sought | Legislation (a ban on developing superintelligence, a pause on advanced AI development, public appointment of board members) | Executive action such as presidential orders |
+
+The concerns overlap; the means diverge.<br>
+**Those who seek legislation and those who say legislation will come too late stood on the same stage.**<br>
+The gap between "the speed of technology and the speed of institutions" seen in Section 7.1 also appears in how those seeking regulation choose their means.
+
 ## 7.4 Japan's AI Regulatory Landscape
 
 Japan's AI regulation remains in a state of **ongoing discussion**.
@@ -2657,6 +2769,12 @@ Are these sincere or hypocritical? Both sides are laid out, with judgment suspen
 7. OECD. "AI Policy Observatory." 2026.
    https://oecd.ai/
 8. Cyberspace Administration of China. "Interim Measures for the Management of Generative AI Services." July 2023.
+
+(Added on September 16, 2026)
+
+9. Senator Bernie Sanders. "PREPARED REMARKS: Sanders: Regulating AI 'is as American as apple pie.'" September 15, 2026.
+   https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-regulating-ai-is-as-american-as-apple-pie/
+10. Reuters (Japanese edition). "Sanders and Bannon call for stronger AI oversight in unusual left-right alliance." September 16, 2026.
 
 <br>
 
